@@ -1,2 +1,2 @@
 # NT
-Para mi foro de rool.
+Para mi foro de rol.
